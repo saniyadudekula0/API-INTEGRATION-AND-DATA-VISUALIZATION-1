@@ -8,6 +8,7 @@
 *DOMAIN*: PYTHON PROGRAMMING
 
 *MENTOR*: NEELA SANTHOSH
+*DURATION*: 4 WEEKS
 
 *OUTPUT*:
 <img width="338" height="631" alt="Image" src="https://github.com/user-attachments/assets/530c81ec-7ea3-4c85-8030-d3a18207ce67" />
